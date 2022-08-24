@@ -16,9 +16,9 @@ import time
 enable_gh_action = False  # 启用GitHub Action
 # Bark Push
 enable_bark = False  # 启用Bark推送
-bark_token = ""  # Bark推送ID
+bark_token = "https://api.day.app/NazVsx4PpJLh2SP2P5b4Y3/"  # Bark推送ID
 # Serverchan Push
-enable_serverchan = False  # 启用Server酱(Turbo)推送
+enable_serverchan = True  # 启用Server酱(Turbo)推送
 sct_token = ""  # Sendkey
 # Ticket Stuff
 startSite = "SK"  # 始发站点
